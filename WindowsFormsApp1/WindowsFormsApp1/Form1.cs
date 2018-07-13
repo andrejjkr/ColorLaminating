@@ -15,5 +15,15 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+        private void label1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "AAAAAAAAAAAA";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "DDDDDDDDDDDDDDD";
+        }
     }
-}
+    }
+
